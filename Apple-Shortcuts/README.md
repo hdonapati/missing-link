@@ -35,7 +35,7 @@ Before you begin, make sure you have the following:
 
 Here is a list of available **Automations**:
 
-1. **Create an Alarm for Flight Check-in** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Flight-CheckIn-Alarm.md "Read More")
+1. **Create an Alarm for Flight Check-in** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Flight-CheckIn-Alarm/Setup.md "Read More")
    - Description: Generates alarms for Flight Check-in (24 hours before) based on your Flight Schedules.
    - Usage: The automation runs daily, a minute after midnight, fetching Flight Schedules for the next day and creating alarms as needed.
    - Author: [hdonapati](https://github.com/hdonapati)
