@@ -7,7 +7,7 @@ The is a handy automation designed to assist users in staying on top of their up
 1. **Automatic Daily Trigger**: The Shortcut is set to run daily, activating after midnight to ensure you receive timely reminders.
    
 2. **Calendar Event Retrieval**: It fetches upcoming calendar events for the next day, specifically identifying flights based on specified criteria.
-   This is acheived by `Get Flights` Shortcut. You need to download or create similar shortcut that retrieves Flight Schedules for a given day from here: https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/GetFlights.md
+   This is acheived by `Get Flights` Shortcut. You need to download or create similar shortcut that retrieves Flight Schedules for a given day from here: https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/GetFlights/Setup.md
    
 3. **Check-in Alarm Creation**: For each identified flight, the Shortcut calculates the optimal check-in time (24 hours before departure) and creates a reminder or alarm for the current day.
    
