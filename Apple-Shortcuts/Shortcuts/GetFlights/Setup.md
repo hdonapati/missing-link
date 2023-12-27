@@ -7,8 +7,7 @@
 <img src="https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/ShortcutsIcon.png" style="width:20px;height:20px;" /> Shortcuts iCloud Link: https://www.icloud.com/shortcuts/5d7e5572e3264586af7ade590a38c3af
 
 ## Demo: 
-https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/Shortcuts/GetFlights/images/Demo.mp4
-![]([images/Demo.mp4](https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/Shortcuts/GetFlights/images/Demo.MP4)https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/Shortcuts/GetFlights/images/Demo.MP4)
+https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/Shortcuts/GetFlights/images/Demo.MP4
 
 ## DIY Setup:
 <img src="images/0.PNG" alt="Script 0" style="width:400px;"/> <img src="images/1.PNG" alt="Script 1" style="width:400px;"/>
