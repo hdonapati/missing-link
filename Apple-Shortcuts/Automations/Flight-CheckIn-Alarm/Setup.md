@@ -31,7 +31,7 @@ The is a handy automation designed to assist users in staying on top of their up
 
   > You need to search for the Scripting blocks and have appropriate values/configurations as shown in the images.
 
-4. Add a `Text` block, in which specify the value `Tomorrow` - becuase we need to fetch Flight's for next day. Then Add `Run Shortcut` block and select the `Get Flights` shortcut (This shortcut retruns the flights added in your calendar for a given date). Then add all the other blocks as shown in the images.
+4. Add a `Text` block, in which specify the value `Tomorrow` - because we need to fetch Flight's for next day. Then Add `Run Shortcut` block and select the `Get Flights` shortcut (This shortcut retruns the flights added in your calendar for a given date). Then add all the other blocks as shown in the images.
   <br/> <img src="images/6.PNG" alt="Time Selection" style="width:400px;"/> <img src="images/7.PNG" alt="Time Selection" style="width:400px;"/>
 
 5. Then add the `Show Notification` block, with Title `Added Flight Check in alarms for:`
