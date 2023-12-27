@@ -26,16 +26,16 @@ The is a handy automation designed to assist users in staying on top of their up
   <br/> <img src="images/1.PNG" alt="Time of Day" style="width:400px;"/> <img src="images/2.PNG" alt="Time Selection" style="width:400px;"/>
   
 3. Then choose `New Blank Automation`, which takes you to the screen where you can create the Automation routine.
-  <br/> <img src="images/3.PNG" alt="New Blank Automation" style="width:400px;"/> <img src="images/4.PNG" alt="Time Selection" style="width:400px;"/>
+  <br/> <img src="images/3.PNG" alt="New Blank Automation" style="width:400px;"/> <img src="images/4.PNG" style="width:400px;"/>
 
 
   > You need to search for the Scripting blocks and have appropriate values/configurations as shown in the images.
 
 4. Add a `Text` block, in which specify the value `Tomorrow` - because we need to fetch Flight's for next day. Then Add `Run Shortcut` block and select the `Get Flights` shortcut (This shortcut retruns the flights added in your calendar for a given date). Then add all the other blocks as shown in the images.
-  <br/> <img src="images/6.PNG" alt="Time Selection" style="width:400px;"/> <img src="images/7.PNG" alt="Time Selection" style="width:400px;"/>
+  <br/> <img src="images/6.PNG" alt="Script 1" style="width:400px;"/> <img src="images/7.PNG" alt="Script 2" style="width:400px;"/>
 
 5. Then add the `Show Notification` block, with Title `Added Flight Check in alarms for:`
-  <br/> <img src="images/8.jpeg" alt="Time Selection" style="width:400px;"/>
+  <br/> <img src="images/8.jpeg" alt="Script 3"  style="width:400px;"/>
 
 > [!TIP]
 > Customize the Shortcut to your preferences, including notification settings and any additional features you may need. Alternatively you can create areminder instead of an alarm, or do both. Alarm better suited for my purpose.
