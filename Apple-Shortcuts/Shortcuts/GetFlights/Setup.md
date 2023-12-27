@@ -13,8 +13,7 @@ https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/Sh
 <img src="images/0.PNG" alt="Script 0" style="width:400px;"/> <img src="images/1.PNG" alt="Script 1" style="width:400px;"/>
 <br/> <img src="images/2.PNG" alt="Script 2" style="width:400px;"/> <img src="images/3.PNG" alt="Script 3" style="width:400px;"/>
 <br/> <img src="images/4.PNG" alt="Script 4" style="width:400px;"/> <img src="images/5.PNG" alt="Script 5" style="width:400px;"/>
-<br/> <img src="images/2.PNG" alt="Script 6" style="width:400px;"/> <img src="images/3.PNG" alt="Script 6" style="width:400px;"/>
-<br/> <img src="images/2.PNG" alt="Script 7" style="width:400px;"/> <img src="images/3.PNG" alt="Script 8" style="width:400px;"/>
-<br/> <img src="images/2.PNG" alt="Script 9" style="width:400px;"/>
+<br/> <img src="images/6.PNG" alt="Script 6" style="width:400px;"/> <img src="images/7.PNG" alt="Script 7" style="width:400px;"/>
+<br/> <img src="images/8.PNG" alt="Script 8" style="width:400px;"/> <img src="images/9.PNG" alt="Script 9" style="width:400px;"/>
 
 
