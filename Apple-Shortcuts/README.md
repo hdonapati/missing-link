@@ -9,8 +9,6 @@ Welcome to the Apple Shortcuts Collection! This repository contains a set of use
 - [Getting Started](#getting-started)
 - [Automations](#automations)
 - [Shortcuts](#shortcuts)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Getting Started
@@ -45,25 +43,6 @@ Here is a list of available shortcuts in this collection:
 
 <!-- Add more shortcuts as needed -->
 
-## Usage
-
-To use any shortcut, follow these general steps:
-
-1. Open the Shortcuts app.
-2. Select the desired shortcut from the list.
-3. Tap the "Play" button to run the shortcut.
-
-For specific instructions on each shortcut, refer to the individual sections in the Shortcuts list.
-
-## Contributing
-
-Contributions are welcome! If you have a new shortcut to add or want to improve an existing one, follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m 'Add a new shortcut'`).
-4. Push your changes to the branch (`git push origin feature/your-feature`).
-5. Open a pull request.
 
 ## License
 
