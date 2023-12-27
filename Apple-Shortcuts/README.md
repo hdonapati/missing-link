@@ -35,7 +35,7 @@ Before you begin, make sure you have the following:
 
 Here is a list of available shortcuts in this collection:
 
-1. **Get Flights**
+1. **Get Flights** [:link:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/GetFlights.md)
    - Description: Will show/return the flights for a given day by looking up in the calendar.
    - Usage: Can be used within another shortcut/automation to return the data or standalone to display a notification.
    - Author: [hdonapati](https://github.com/hdonapati)
