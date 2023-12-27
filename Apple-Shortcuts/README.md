@@ -30,13 +30,22 @@ Before you begin, make sure you have the following:
    
 ## Automations
 
+> [!NOTE]  
+> Automations cannot be shared via an iCloud link; users must manually create them on their devices. I will share screenshots of the listed automations for you to replicate.
+
+Here is a list of available **Automations**:
+
+1. **Create an Alarm for Flight Checkin** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Flight-CheckIn-Alarm.md "Read More")
+   - Description: Generates alarms for Flight Check-In (24 hours before) based on your Flight Schedules.
+   - Usage: The automation runs daily, a minute after midnight, fetching Flight Schedules for the next day and creating alarms as needed.
+   - Author: [hdonapati](https://github.com/hdonapati)
 
 ## Shortcuts
 
-Here is a list of available shortcuts in this collection:
+Here is a list of available **Shortcuts**:
 
 1. **Get Flights** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/GetFlights.md "Read More") <a href="https://www.icloud.com/shortcuts/5d7e5572e3264586af7ade590a38c3af" title="Apple Shortcut Link" alt="GetFlights-Shortcut-Link"><img src="https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/ShortcutsIcon.png" style="width:20px;height:20px;" /></a>
-   - Description: Will show/return the flights for a given day by looking up in the calendar.
+   - Description: Will show/return the flights for a given date by looking up in the calendar.
    - Usage: Can be used within another shortcut/automation to return the data or standalone to display a notification.
    - Author: [hdonapati](https://github.com/hdonapati)
 
