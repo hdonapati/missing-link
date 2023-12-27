@@ -40,7 +40,7 @@ Here is a list of available shortcuts in this collection:
 1. **Get Flights**
    - Description: Will show/return the flights for a given day by looking up in the calendar.
    - Usage: Can be used within another shortcut/automation to return the data or standalone to display a notification.
-   - Author: [hdonapati](#https://github.com/hdonapati).
+   - Author: [hdonapati](https://github.com/hdonapati).
 
 
 <!-- Add more shortcuts as needed -->
