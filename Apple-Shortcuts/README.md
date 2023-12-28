@@ -44,7 +44,7 @@ Here is a list of available **Automations**:
 
 Here is a list of available **Shortcuts**:
 
-1. **Get Flights** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/GetFlights.md "Read More") <a href="https://www.icloud.com/shortcuts/5d7e5572e3264586af7ade590a38c3af" title="Apple Shortcut Link" alt="GetFlights-Shortcut-Link"><img src="https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/ShortcutsIcon.png" style="width:20px;height:20px;" /></a>
+1. **Get Flights** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/GetFlights/Setup.md "Read More") <a href="https://www.icloud.com/shortcuts/5d7e5572e3264586af7ade590a38c3af" title="Apple Shortcut Link" alt="GetFlights-Shortcut-Link"><img src="https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/ShortcutsIcon.png" style="width:20px;height:20px;" /></a>
    - Description: Will show/return the flights for a given date by looking up in the calendar.
    - Usage: Can be used within another shortcut/automation to return the data or standalone to display a notification.
    - Author: [hdonapati](https://github.com/hdonapati)
