@@ -1,4 +1,4 @@
-# Automation to **Create an Alarm for Flight Check-in**
+# Automation to `Create an Alarm for Flight Check-in`
 
 ## Description:
 The is a handy automation designed to assist users in staying on top of their upcoming flights. Leveraging the power of Apple Shortcuts this automation scans your calendar daily for flights scheduled for the next day and creates timely reminders for check-in.
