@@ -40,7 +40,7 @@ Here is a list of available **Automations**:
    - Usage: The automation runs daily, a minute after midnight, fetching Flight Schedules for the next day and creating alarms as needed.
    - Author: [hdonapati](https://github.com/hdonapati)
 
-2. **Toggling Work Alarams based on Work Schedule** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Work-Alarms/Setup.md "Read More")
+2. **Toggling Work Alarms based on Work Schedule** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Work-Alarms/Setup.md "Read More")
    - Description: Toggles Work Alarms based on your Work Schedule - Vacation Day or Work Holiday.
    - Usage: The automation runs on set days at `22:00`(configurable), fetching Work Schedules for the next day and toggling alarms as needed.
    - Author: [hdonapati](https://github.com/hdonapati)
