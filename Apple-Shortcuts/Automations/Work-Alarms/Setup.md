@@ -13,7 +13,7 @@ Features:
 
 ## Setting up Automation:
 
-1. Open the Shortcuts app and navigate to the "Automation" tab, use the '+' button on top-right corner to create a new automation. Select Time of day, in which choose the time you want the automation to run. I have selected it as `22:00` so that the whole day is covered, and select a weekday before all of your Work Days. For last section, select the options as per your convenience.
+1. Open the Shortcuts app and navigate to the "Automation" tab, use the '+' button on top-right corner to create a new automation. Select Time of day, in which choose the time you want the automation to run. I have selected it as `22:00` so I get a notification before my sleep, and select a weekday before all of your Work Days. For last section, select the options as per your convenience.
    <br/> <img src="images/x0.PNG" alt="Time of Day" style="width:400px;"/> <img src="images/x1.PNG" alt="Time Selection" style="width:400px;"/>
    
 2. Then choose `New Blank Automation`, which takes you to the screen where you can create the Automation routine.
