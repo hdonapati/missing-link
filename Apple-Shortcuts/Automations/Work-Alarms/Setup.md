@@ -28,7 +28,7 @@ Features:
 4. In the `Show Notification` block, add the Title `Turned off Office Alarm(s) for tomorrow.`
 
 > [!TIP]
-> Customize the Shortcut to your preferences, including notification settings and any additional features you may need. Alternatively you can create areminder instead of an alarm, or do both. Alarm better suited for my purpose.
+> Customize the Shortcut to your preferences, including notification settings and any additional features you may need. 
 
 ---
 
