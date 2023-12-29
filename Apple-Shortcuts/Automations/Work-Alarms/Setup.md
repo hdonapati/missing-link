@@ -9,7 +9,7 @@ Features:
 
 2. Calendar Event Retrieval: It fetches upcoming Work calendar events for the next day, identifying if it's a Vacation Day or Work Holiday. This is acheived by `Holiday or Vacation Check` Shortcut. You need to download or create similar shortcut that checks if it is a work related Holiday or Vacation for a given day from here: https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Work-Alarms/Setup.md
 
-3. Toggling Alarms: The Automation retrives all the Alarms labelled `Office` and then turns them all off when it is a work related Holiday or Vacation, or else keep them on.
+3. Toggling Alarms: The Automation retrives all the Alarms labelled `Office` and then turns them all off when it is a work related Holiday or Vacation also giving a notifcation, or else keep them on.
 
 ## Setting up Automation:
 
