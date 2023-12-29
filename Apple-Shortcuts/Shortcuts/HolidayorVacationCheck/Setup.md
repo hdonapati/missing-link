@@ -20,7 +20,11 @@ I've designed this Apple Shortcut to take a date as input and query your work ca
 
 ## Structuring Work Events in Calendar App:
 * Work Holidays are set up as an All day event in the Work Calendar, and the Notes says `Holiday`.
-* Vacation days are set up as an All day event in the Work Calendar, and teh Title itself says `Vacation`.
+* Vacation days are set up as an All day event in the Work Calendar, and the Title itself says `Vacation`.
 * You can add other conditions to better suit your purposes, based on how your Calendar events are structured.
 
 ## DIY Setup:
+<img src="images/0.PNG" alt="Script 0" style="width:400px;"/> <img src="images/1.PNG" alt="Script 1" style="width:400px;"/>
+<br/> <img src="images/2.PNG" alt="Script 2" style="width:400px;"/> <img src="images/3.PNG" alt="Script 3" style="width:400px;"/>
+<br/> <img src="images/4.PNG" alt="Script 4" style="width:400px;"/> <img src="images/5.PNG" alt="Script 5" style="width:400px;"/>
+<br/> <img src="images/6.PNG" alt="Script 6" style="width:400px;"/>
