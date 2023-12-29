@@ -2,7 +2,7 @@
 
 ## Description:
 
-The is a handy automation designed to assist users in Toggle Work Alarms based on their next days's schedule, for which the events are added to the Calendar.
+This is a handy automation designed to assist users in Toggle Work Alarms based on their next days's schedule, for which the events are added to the Calendar.
 
 Features:
 1. Automatic Daily Trigger: The Shortcut is set to run at `22:00` (configurable for your needs).
