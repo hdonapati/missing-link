@@ -19,14 +19,6 @@ Before you begin, make sure you have the following:
 
 - An iOS device running iOS 13 or later.
 - The Shortcuts app installed on your iOS device.
-
-### Installation
-
-1. Clone this repository to your local machine or download it as a ZIP file.
-2. Open the Shortcuts app on your iOS device.
-3. Tap the '+' icon to create a new shortcut.
-4. Tap "Add Action" to add actions to your shortcut.
-5. Import actions from the downloaded repository by selecting the `.shortcut` files.
    
 ## Automations
 
