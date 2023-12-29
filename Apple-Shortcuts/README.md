@@ -48,6 +48,11 @@ Here is a list of available **Shortcuts**:
    - Description: Will show/return the flights for a given date by looking up in the calendar.
    - Usage: Can be used within another shortcut/automation to return the data or standalone to display a notification.
    - Author: [hdonapati](https://github.com/hdonapati)
+  
+2. **Holiday or Vacation Check** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Shortcuts/HolidayorVacationCheck/Setup.md "Read More") <a href="https://www.icloud.com/shortcuts/e9f9e20cb0bc4cb7b3a0c44d3173e9c8" title="Apple Shortcut Link" alt="GetFlights-Shortcut-Link"><img src="https://raw.githubusercontent.com/hdonapati/missing-link/main/Apple-Shortcuts/ShortcutsIcon.png" style="width:20px;height:20px;" /></a>
+   - Description: For a given date, if it's Work vacation day or Holiday, will return the event name.
+   - Usage: Can be utilized within another shortcut/automation to retrieve the event name – helpful for disabling work-related alarms or enabling Work Focus mode for the current or upcoming day.
+   - Author: [hdonapati](https://github.com/hdonapati)
 
 
 <!-- Add more shortcuts as needed -->
