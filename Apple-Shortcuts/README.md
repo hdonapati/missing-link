@@ -44,6 +44,11 @@ Here is a list of available **Automations**:
    - Description: Toggles Work Alarms based on your Work Schedule - Vacation Day or Work Holiday.
    - Usage: The automation runs on set days at `22:00`(configurable), fetching Work Schedules for the next day and toggling alarms as needed.
    - Author: [hdonapati](https://github.com/hdonapati)
+  
+3. **Toggling Work Focus mode based on Work Schedule** [:book:](https://github.com/hdonapati/missing-link/blob/main/Apple-Shortcuts/Automations/Work-Focus-Mode/Setup.md "Read More")
+   - Description: Toggles Work Focus Mode based on your Work Schedule - Vacation Day or Work Holiday.
+   - Usage: The automation runs on set days at `09:01`(a minute after Work Time starts, configurable), fetching Work Schedules for the current day and turning off Work Focus mode if required.
+   - Author: [hdonapati](https://github.com/hdonapati)
      
 ## Shortcuts
 
