@@ -23,7 +23,7 @@ Features:
 
 3. Add a `Text` block, in which specify the value `Tomorrow` - because we need to fetch Schedule for next day. Then Add `Run Shortcut` block and select the `Holiday or Vacation Check` shortcut. Then add all the other blocks as shown in the images.
   <br/> <img src="images/0.PNG" alt="Script 0" style="width:400px;"/> <img src="images/1.PNG" alt="Script 1" style="width:400px;"/>
-  <br/> <img src="images/2.PNG" alt="Script 0" style="width:400px;"/> <img src="images/3.PNG" alt="Script 1" style="width:400px;"/>
+  <br/> <img src="images/2.PNG" alt="Script 2" style="width:400px;"/> <img src="images/3.PNG" alt="Script 3" style="width:400px;"/>
 
 4. In the `Show Notification` block, add the Title `Turned off Office Alarm(s) for tomorrow.`
 
